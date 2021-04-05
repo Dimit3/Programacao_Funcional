@@ -1,3 +1,3 @@
-## Repositório de Programação Funcional na linguagem Haskell 2018/2019
+## Repositório de Programação Funcional na linguagem Haskell 
 
-No âmbito do 1º Ano da Licenciatura em Ciências da Computação
+No âmbito do 1º Ano da Licenciatura em Ciências da Computação 18/19
